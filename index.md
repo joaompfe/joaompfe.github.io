@@ -4,4 +4,6 @@
 
 layout: home
 ---
-
+## Github projects
+- [*n*-gram Language Model for next word prediction](https://github.com/joaompfe/ngram-lm)
+- [Next word prediction component for SpaCy library]()
