@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:
+title: Index
 ---
 ## Github projects:
 - [*n*-gram Language Model for next word prediction](https://github.com/joaompfe/ngram-lm)
