@@ -10,4 +10,4 @@ title: Index
 - [Next word prediction component for SpaCy library]()
 
 ## Essays
-- [Bachelor final project -- A NLP toolkit](assets/bachelor-final-project)
+- [Bachelor final project -- A NLP toolkit](assets/bachelor-final-project.pdf)
