@@ -15,5 +15,7 @@ title: Index
 ## Published work
 - [Development of a Test-Bench for Evaluating the Embedded Implementation of the Improved Elephant Herding Optimization Algorithm Applied to Energy-Based Acoustic Localization](https://doi.org/10.3390/computers9040087)
 
-## Beliefs
+## Opinions
 > If you installed snap/snapd/snapcraft on a Linux environment you are not a Linux user.
+
+> The solution to all ethical issues around Machine Learning or black-box models is: no person can be forced to use them.
